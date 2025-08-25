@@ -1,0 +1,58 @@
+Model Name,Developer,Release Date,Parameter Size,Open Source,Capabilities
+TinyZero,Jiayi-Pan,N/A,0,True,Text generation,Reasoning
+open-r1,HuggingFace,N/A,0,True,Text generation,Reasoning
+DeepSeek-R1,DeepSeek,2025-01,0,True,Reasoning,Text generation
+Qwen2.5-Max,Alibaba,2024-12,0,False,Text generation,MoE,Intelligence exploration
+OpenAI o3-mini,OpenAI,N/A,0,False,Reasoning,Cost-effective inference
+DeepSeek-V3,DeepSeek,2024-12,0,True,Text generation,Reasoning,Multimodal
+Kimi-K2,MoonshotAI,N/A,1000,False,Text generation,MoE
+GPT 1.0,OpenAI,2018-06,0,False,Text generation,Language understanding,Generative pre-training
+BERT,Google,2018-10,0,True,Text generation,Language understanding,Bidirectional transformers
+GPT 2.0,OpenAI,2019-02,1.5,False,Text generation,Unsupervised multitask learning
+Megatron-LM,NVIDIA,2019-09,530,True,Text generation,Model parallelism,Large-scale training
+T5,Google,2019-10,11,True,Text generation,Transfer learning,Text-to-text tasks
+ZeRO,Microsoft,2019-10,0,True,Memory optimization,Trillion parameter training
+GPT 3.0,OpenAI,2020-05,175,False,Text generation,Few-shot learning,Multitask
+Switch Transformers,Google,2021-01,1600,False,Text generation,MoE,Sparsity scaling
+Codex,OpenAI,2021-08,12,False,Code generation,Programming tasks
+FLAN,Google,2021-09,0,False,Text generation,Zero-shot learning,Instruction tuning
+T0,HuggingFace et al.,2021-10,11,True,Text generation,Zero-shot generalization,Multitask prompted training
+GLaM,Google,2021-12,1200,False,Text generation,MoE,Efficient scaling
+WebGPT,OpenAI,2021-12,0,False,Question answering,Browser-assisted,Human feedback
+Retro,DeepMind,2021-12,7,False,Text generation,Retrieval-augmented
+Gopher,DeepMind,2021-12,280,False,Text generation,Scaling analysis
+LaMDA,Google,2022-01,137,False,Dialog,Conversation
+Minerva,Google,2022-01,540,False,Quantitative reasoning,Math solving
+Megatron-Turing NLG,Microsoft&NVIDIA,2022-01,530,False,Text generation,Generative tasks
+InstructGPT,OpenAI,2022-03,175,False,Instruction following,Human feedback alignment
+PaLM,Google,2022-04,540,False,Text generation,Scaling with pathways
+Chinchilla,DeepMind,2022-04,70,False,Compute-optimal training,Text generation
+OPT,Meta,2022-05,175,True,Text generation,Open pre-trained
+UL2,Google,2022-05,20,False,Text generation,Unified learning paradigms
+Sparrow,DeepMind,2022-09,70,False,Dialog alignment,Human judgements
+Flan-T5,Google,2022-10,11,True,Instruction-finetuned,Scaling
+Flan-PaLM,Google,2022-10,540,False,Instruction-finetuned,Scaling
+GLM-130B,Tsinghua,2022-10,130,True,Bilingual pre-training,Text generation
+BLOOM,BigScience,2022-11,176,True,Multilingual,Text generation,Open-access
+Galactica,Meta,2022-11,120,True,Scientific text,Knowledge-intensive tasks
+OPT-IML,Meta,2022-12,175,True,Instruction meta learning,Generalization
+LLaMA,Meta,2023-02,65,True,Foundation models,Text generation
+Kosmos-1,Microsoft,2023-02,0,False,Multimodal,Perception-language alignment
+PaLM-E,Google,2023-03,562,False,Embodied multimodal,Robotics
+GPT 4,OpenAI,2023-03,0,False,Text generation,Reasoning,Multimodal
+LLaVA,UW–Madison&Microsoft,2023-04,0,True,Visual instruction tuning,Multimodal
+Pythia,EleutherAI et al.,2023-04,12,True,Analysis across training,Scaling suite
+Dromedary,CMU et al.,2023-05,0,False,Self-alignment,Principle-driven
+PaLM 2,Google,2023-05,0,False,Text generation,Multilingual,Reasoning
+RWKV,Bo Peng,2023-05,0,True,RNN reinvented,Transformer-era efficiency
+DPO,Stanford,2023-05,0,True,Direct preference optimization,Reward modeling
+LLaMA2,Meta,2023-07,70,True,Text generation,Chat,Fine-tuned
+Mistral 7B,Mistral,2023-10,7,True,Text generation,High performance
+Mamba,CMU&Princeton,2023-12,0,True,Linear-time sequence modeling,State spaces
+DeepSeek-v2,DeepSeek,2024-01,0,True,MoE,Economical,Efficient
+OLMo,Ai2,2024-02,65,True,Open language models,Science acceleration
+Mamba2,CMU&Princeton,2024-05,0,True,Structured state space,Transformer duality
+Llama3,Meta,2024-05,70,True,Text generation,Multimodal potential
+OLMoE,Ai2,2024-09,7,True,Open mixture-of-experts
+Qwen2.5,Alibaba,2024-12,0,False,Text generation,Reasoning
+DeepSeek-V3,DeepSeek,2024-12,0,True,Text generation,Reasoning
